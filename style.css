@@ -1,0 +1,33 @@
+body
+{
+	text-align: center;
+	font-family: 'Hubballi', cursive;
+}
+span
+{
+	font-size: 20px;
+	color: blueviolet;
+}
+canvas
+{
+	border: 5px solid white;
+	box-shadow: 1px 1px 40px lightpink;
+	border-radius: 20px;
+	margin-top: -200px;
+}
+
+#btn-draw:hover{
+	background-color:gold;
+	color: black;
+	font-family:'Times New Roman', Times, serif;
+}
+
+#container{
+	background-color: white;
+	width: fit-content;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-top: 3px;
+	border-radius: 10px;
+}
